@@ -64,4 +64,9 @@ The web interface is built with **Streamlit**, allowing users to easily input me
 ```bash
 https://github.com/swetha75508/Spam-Email-Classification.git
 
+pip install -r requirements.txt
+
+streamlit run app.py
+
+Navigate to 👉 http://localhost:8501 to use the app.
 
