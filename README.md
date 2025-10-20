@@ -6,8 +6,7 @@ A simple and interactive **Streamlit web app** that classifies text messages (Em
 
 ## 🚀 Project Overview
 
-This project uses a **Naive Bayes Model** trained on  SMS/Email text data to detect spam messages.  
-The web interface is built with **Streamlit**, allowing users to easily input messages and get real-time predictions.
+This project uses a **Naive Bayes Model** trained on  SMS/Email text data to detect spam messages. The web interface is built with **Streamlit**, allowing users to easily input messages and get real-time predictions.
 
 ---
 
