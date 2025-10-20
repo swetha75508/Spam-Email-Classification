@@ -6,15 +6,14 @@ A simple and interactive **Streamlit web app** that classifies text messages (Em
 
 ## 🚀 Project Overview
 
-This project uses a **Logistic Regression model** trained on text message data to detect spam.  
-The web interface is built with **Streamlit**, making it easy for users to input messages and get instant predictions.
-
+This project uses a **Naive Bayes Model** trained on  SMS/Email text data to detect spam messages.  
+The web interface is built with **Streamlit**, allowing users to easily input messages and get real-time predictions.
 ---
 
 ## 🧠 Tech Stack
 
 - **Python**
-- **Streamlit** – for building the interactive UI  
+- **Streamlit** – for the web interface  
 - **Scikit-learn** – for machine learning  
 - **NLTK** – for text preprocessing  
 - **Pickle** – for saving and loading the model and vectorizer  
@@ -24,10 +23,10 @@ The web interface is built with **Streamlit**, making it easy for users to input
 ## ⚙️ Features
 
 ✅ Clean and simple user interface  
-✅ Real-time spam prediction  
-✅ Text preprocessing with stemming and stopword removal  
-✅ Model and vectorizer loading via pickle  
-✅ Works with both emails and SMS  
+✅ Real-time spam classification
+✅ Text preprocessing  (tokenization, stopword removal, stemming)  
+✅ Uses **TF-IDF** features and **Naive Bayes** model  
+✅ Works for both **emails** and **SMS messages**  
 
 ---
 
