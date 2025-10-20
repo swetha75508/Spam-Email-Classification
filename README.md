@@ -46,7 +46,11 @@ The web interface is built with **Streamlit**, allowing users to easily input me
 📂 spam-classifier/
 │
 ├── app.py # Streamlit application file
+
 ├── model.pkl # Trained machine learning model
+
 ├── vectorizer.pkl # TF-IDF vectorizer
+
 ├── requirements.txt # Dependencies
+
 └── README.md # Project documentation
