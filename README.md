@@ -66,7 +66,7 @@ https://github.com/swetha75508/Spam-Email-Classification.git
 
 pip install -r requirements.txt
 
-streamlit run app.py
+streamlit run spam_app.py
 
 Navigate to 👉 http://localhost:8501 to use the app.
 
