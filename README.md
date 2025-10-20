@@ -54,14 +54,14 @@ The web interface is built with **Streamlit**, allowing users to easily input me
 
 ├── requirements.txt # Dependencies
 
+└── README.md # Project documentation
+
 ---
 
 ## ▶️ How to Run Locally
 
 ### 1. Clone the repository
 ```bash
-
-
-└── README.md # Project documentation
+https://github.com/swetha75508/Spam-Email-Classification.git
 
 
